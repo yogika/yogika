@@ -1,6 +1,6 @@
 Data Sience & Application Developer
 ------------------------------------
-![1500x500]()
+![1500x500](You’re allowed to be both a masterpiece and a work in progress_ Lo-fi Study Beats & Rain Sounds.jpg)
 ## Hi there 👋
 
 <!--

@@ -1,19 +1,27 @@
 Data Sience & Application Developer
 ------------------------------------
+## About Me
 ![1500x500](cat.jpg)
 ## Hi there 👋
+Ich bin yogika(i am yogika)!
 
-<!--
-**yogika/yogika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm an international student from India, currently living in **Germany** 🇩🇪 and pursuing my **MSc in Data Science**.
 
-Here are some ideas to get you started:
+I completed my **Bachelor of Computer Applications (BCA)** with a focus on **Web Technologies** and **Mobile Application Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about data, technology, and building real-world solutions using Python, machine learning, and data visualization.
+
+Alongside my studies, I’m also **learning German (A1 level)** to better integrate and communicate while living and working in Germany.
+
+📚 Currently learning:
+- Machine Learning
+- Data Engineering (ETL, SQL, BigQuery, Python)
+- Data Analytics & Visualization (Power BI, Tableau, Plotly)
+- Web Scraping
+- Cloud Computing (AWS, Azure)
+
+I’m looking forward to collaborating on open-source data projects and gaining practical experience through internships or student jobs.
+
+📫 Feel free to connect:  
+📧 yogikathakur777@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/yogika-thakur-05007b205/) 

@@ -3,7 +3,7 @@ Data Sience & Application Developer
 ## About Me
 ![1500x500](learning.jpg)
 ## Hi there 👋
-Ich bin yogika(i am yogika)!
+Ich bin yogika (i am yogika)!
 
  I'm an international student from India, currently living in **Germany** 🇩🇪 and pursuing my **MSc in Data Science**.
 
@@ -11,7 +11,7 @@ I completed my **Bachelor of Computer Applications (BCA)** with a focus on **Web
 
 I’m passionate about data, technology, and building real-world solutions using Python, machine learning, and data visualization.
 
-Alongside my studies, I’m also **learning German (A1 level)** to better integrate and communicate while living and working in Germany.
+Alongside my studies, I’m also **learning German** to better integrate and communicate while living and working in Germany.
 
 📚 Currently learning:
 - Machine Learning

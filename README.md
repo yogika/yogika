@@ -1,7 +1,7 @@
 Data Sience & Application Developer
 ------------------------------------
 ## About Me
-![1500x500](cat.jpg)
+![1500x500](learning.jpg)
 ## Hi there 👋
 Ich bin yogika(i am yogika)!
 

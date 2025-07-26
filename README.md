@@ -1,6 +1,6 @@
 Data Sience & Application Developer
 ------------------------------------
-![1500x500](https://github.com/superberdus/superberdus/assets/83096271/1bf7413f-f027-4123-a834-22f468830cf2)
+![1500x500]()
 ## Hi there 👋
 
 <!--

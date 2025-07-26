@@ -1,6 +1,6 @@
 Data Sience & Application Developer
 ------------------------------------
-![1500x500]()
+![1500x500](download.jpg)
 ## Hi there 👋
 
 <!--

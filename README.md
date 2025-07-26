@@ -1,6 +1,6 @@
 Data Sience & Application Developer
 ------------------------------------
-![1500x500]([Storms don’t last forever_..  _ Lo-fi Rain – Study, Heal, Focus_](https://pin.it/62N6QDnld))
+![1500x500]()
 ## Hi there 👋
 
 <!--

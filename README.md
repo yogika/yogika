@@ -15,7 +15,7 @@ Alongside my studies, I’m also **learning German** to better integrate and com
 
 📚 Currently learning:
 - Machine Learning
-- Data Engineering (ETL, SQL, BigQuery, Python)
+- Data Engineering (ETL, SQL, Python)
 - Data Analytics & Visualization (Power BI, Tableau, Plotly)
 - Web Scraping
 - Cloud Computing (AWS, Azure)
